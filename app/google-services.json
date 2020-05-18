@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "259872287335",
+    "firebase_url": "https://hackeru19-1386f.firebaseio.com",
+    "project_id": "hackeru19-1386f",
+    "storage_bucket": "hackeru19-1386f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259872287335:android:a0dd4c39038a3dcea3c2c2",
+        "android_client_info": {
+          "package_name": "com.hackeru.firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259872287335-v9c4u1mho8soh3ii02j6h3974945j1tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUF2ql1-ddtdWy1YliiYTdmQ6Ne0Fx0rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259872287335-v9c4u1mho8soh3ii02j6h3974945j1tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
